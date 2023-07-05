@@ -80,6 +80,7 @@ nav {
     background-color: #FFD400;
     font-weight: bolder;
     box-shadow: 0 2px 0 2px #000;
+    text-decoration: none;
 }
 
 .btn:before {
