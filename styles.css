@@ -1,5 +1,5 @@
 body {
-    background-color: #e4f1f9;
+    background-image: url('img/back-1.svg');
     margin: 0 !important;
 }
 
@@ -7,9 +7,15 @@ body {
     display: flex;
 }
 
+.nav {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
 .firstDiv{
-    background-image: url('img/back-1.svg');
-    height: 1080px;
+    height: auto;
     justify-content: center;
 }
 
@@ -44,7 +50,7 @@ nav {
     justify-content: space-evenly;
     padding: 10px;
     text-align: center;
-    width: 100%;
+    width: 1080px;
 
     position: sticky;
     top: 0px;
